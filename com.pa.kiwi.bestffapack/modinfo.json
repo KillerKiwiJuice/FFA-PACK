@@ -17,8 +17,7 @@
         "coui://ui/mods/pack/maplist.js"
     ],
 	"icon": "http://i.imgur.com/ez9L8KK.png",
-    "id": "a",
-    "priority": 10,
+    "priority": 100,
     "enabled": true,
     "dependencies": [
         "com.pa.conundrum.cShareSystems"
