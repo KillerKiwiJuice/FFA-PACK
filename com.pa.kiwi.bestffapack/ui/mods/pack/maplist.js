@@ -1,4 +1,4 @@
-cShareSystems.load_pas("Kiwi's FFA", [
+cShareSystems.load_pas("Kiwi", [
 	"coui://ui/mods/pack/systems/jungle_platforms_(less than 11 players only).pas",
 	"coui://ui/mods/pack/systems/pretty_much_insanity.pas",
 	"coui://ui/mods/pack/systems/rna_-_next_gen_ffa.pas",
